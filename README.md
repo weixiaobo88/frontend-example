@@ -32,32 +32,39 @@ Make sure you have installed nodejs and grunt command line:
 
 * Install grunt command line 
     
+  ```
   npm install -g grunt-cli
+  ```  
 
 * View homepage of the example
   - In command line
-    
-    grunt build
-    grunt
 
-  - visit the [homepage](http://localhost:9001/)  
+    ```  
+    grunt build  
+    grunt
+    ```
+  
+  - Visit the [http://localhost:9001/](http://localhost:9001/)  
 
 ## Not first use 
 
 * In command line
 
+  ```
   npm install
   bower install
+  ```  
 
 * In command line
   
+  ```
   grunt 
+  ```
 
-* Visit homepage through browser
-
-  http://localhost:9001/    
-
+* Visit homepage through browser [http://localhost:9001/](http://localhost:9001/)
+  
 * To build using command line
 
+  ```
   grunt build
-
+  ```
